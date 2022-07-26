@@ -7,7 +7,7 @@ index.html dosyası barındırıyor.
 
 ## Installation
 
-Öncelikle projeyi clonelayın.(https://github.com/furkancinici/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın.(Buraya sizin linkiniz gelecek)
 
 ` git clone https://github.com/furkancinici/kodluyoruzilkrepo.git `
 
