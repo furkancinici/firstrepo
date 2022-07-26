@@ -30,4 +30,4 @@ bir konu açınız.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![](https://i.pinimg.com/736x/dc/b9/d9/dcb9d943218a09ec5daa9ff06cbf8ee9.jpg)
+
