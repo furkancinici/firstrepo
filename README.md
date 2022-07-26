@@ -35,30 +35,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 index.html dosyası barındırıyor.
 
-## Installation
-
-Öncelikle projeyi clonelayın.(https://github.com/furkancinici/kodluyoruzilkrepo.git)
-
-> git clone https://github.com/furkancinici/kodluyoruzilkrepo.git 
-
-## Usage
-
-Projeyi clonladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
-
-`cd kodluyoruzilkrepo`
-
-`code.`
-
-## Contributing
-
-Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için
-
-bir konu açınız.
-
-## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![](https://i.pinimg.com/736x/dc/b9/d9/dcb9d943218a09ec5daa9ff06cbf8ee9.jpg)
