@@ -29,12 +29,6 @@ bir konu açınız.
 
 ## License
 
-
-
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet de 
-
-index.html dosyası barındırıyor.
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![](https://i.pinimg.com/736x/dc/b9/d9/dcb9d943218a09ec5daa9ff06cbf8ee9.jpg)
