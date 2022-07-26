@@ -9,7 +9,7 @@ index.html dosyası barındırıyor.
 
 Öncelikle projeyi clonelayın.(Buraya sizin linkiniz gelecek)
 
-` git clone https://github.com/furkancinici/kodluyoruzilkrepo.git `
+`git clone https://github.com/furkancinici/kodluyoruzilkrepo.git`
 
 ## Usage
 
@@ -49,7 +49,7 @@ Linux için:
 
 `cd kodluyoruzilkrepo`
 
-`code.
+`code.`
 
 ## Contributing
 
